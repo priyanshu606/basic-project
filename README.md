@@ -1,2 +1,2 @@
 # basic-project
-author-priyanshu singh
+author-priyanshu singh rajput
